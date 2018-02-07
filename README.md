@@ -1,5 +1,5 @@
 # SOLIDWORKS 2018 Summer Comp-Sci Internships
-So... you're waiting in line to talk to one of us at the booth and tell us who you are. While you're waiting, grab a sticky note at the table and solve one of these problems. Stick the solution to your resume. This should be a fast exercise, not complicated. Write clearly, write correctly. State any assumptions you make.
+So... you're waiting in line to talk to one of us at the booth and tell us who you are. While you're waiting, grab a sticky note at the table and solve one (or more!) of these problems. Stick the solution to your resume. This should be a fast exercise, not complicated. Write clearly, write correctly. State any assumptions you make. Alernatively, while in line clone this repo, write the solution in your branch and make a pull request all from your phone! 
 
 ## Choose Your Own Adventure
 
