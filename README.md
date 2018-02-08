@@ -1,5 +1,5 @@
 # SOLIDWORKS 2018 Summer Comp-Sci Internships
-So... you're waiting in line to talk to one of us at the booth and tell us who you are. While you're waiting, flip your resume over and solve one (or more!) of these problems. This should be a fast exercise, not complicated. Write clearly, write correctly. State any assumptions you make. Alernatively, while in line clone this repo, write the solution in your branch and make a pull request all from your phone! 
+So... you've come to our booth at the career fair and scanned the qr code. Please close this repo and solve one (or more!) of the problems below in the _Choose your own adventure_ section. This should be a fast exercise, not complicated. Write clearly, write correctly. State any assumptions you make. When you're done, create a pull request for us. We look forward to chatting over your code! 
 
 ## Choose Your Own Adventure
 
