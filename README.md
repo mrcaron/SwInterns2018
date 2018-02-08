@@ -9,7 +9,7 @@ If you have any questions along the way, feel free to create an Issue on this re
 
 ![CYOA](https://upload.wikimedia.org/wikipedia/en/f/f0/Cave_of_time.jpg)
 
-The following are fairly simple programming exercises. You can choose whatever you like to solve and solve it in whichever language you like. You can submit two answers, one that just gets the job done and the second one that is a more complete experience. Think about the interaction you might need or the output it generates, how could you display it? Be creative. The first solution should take just a few minutes, the second one depends on how you decide to tackle it.
+The following are fairly simple programming exercises. You can choose whatever you like to solve and solve it in whichever language you like. You can submit two answers, one that just gets the job done and the second one that is a more complete experience. Think about the interaction you might need or the output it generates, how could you display it? Is a command line experience sufficient? Should you make a webpage? A native app? The first solution should take just a few minutes, the second one depends on how you decide to go.
 
 * Check if a String is a palindrome or not
 * Split a string into parts based off a given character
