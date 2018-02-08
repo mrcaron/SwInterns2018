@@ -1,5 +1,7 @@
 # SOLIDWORKS 2018 Summer Comp-Sci Internships
-So... you've come to our booth at the career fair and scanned the qr code. Please close this repo and solve one (or more!) of the problems below in the _Choose your own adventure_ section. This should be a fast exercise, not complicated. Write clearly, write correctly. State any assumptions you make. When you're done, create a pull request for us. We look forward to chatting over your code! 
+So... you've come to our booth at the career fair and scanned the qr code which led you here. This is a code repository with GitHub (if you're new to git or github, read [the getting started guide](https://guides.github.com/activities/hello-world/)).
+
+Please clone this repo and create a branch for yourself. Solve one (or more!) of the problems below in the _Choose your own adventure_ section. When you're done, create a pull request for us. Write clearly, write correctly. State any assumptions you make. We look forward to chatting over your code! 
 
 ## Choose Your Own Adventure
 
