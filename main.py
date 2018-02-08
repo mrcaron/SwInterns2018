@@ -15,3 +15,8 @@ def reversedString(s):
   
 def makeItCrash():
   return 1.0>>10
+  
+#I say "Agile", you think Fast
+#I say "DevOps", you think Dev + Ops
+#I say "C++", you think C'
+#I say "Internship", you think Opportunity
