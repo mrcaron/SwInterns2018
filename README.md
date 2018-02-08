@@ -3,6 +3,8 @@ So... you've come to our booth at the career fair and scanned the qr code which 
 
 Please clone this repo and create a branch for yourself. Solve one (or more!) of the problems below in the _Choose your own adventure_ section. When you're done, create a pull request for us. Write clearly, write correctly. State any assumptions you make. We look forward to chatting over your code! 
 
+If you have any questions along the way, feel free to create an Issue on this repository and tag me and I'll answer it asap.
+
 ## Choose Your Own Adventure
 
 ![CYOA](https://upload.wikimedia.org/wikipedia/en/f/f0/Cave_of_time.jpg)
