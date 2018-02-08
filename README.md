@@ -1,7 +1,7 @@
 # SOLIDWORKS 2018 Summer Comp-Sci Internships
 So... you've come to our booth at the career fair and scanned the qr code which led you here. This is a code repository with GitHub (if you're new to git or github, read [the getting started guide](https://guides.github.com/activities/hello-world/)).
 
-Please clone this repo and create a branch for yourself. Solve one (or more!) of the problems below in the _Choose your own adventure_ section. When you're done, [create a pull request for us](https://help.github.com/articles/creating-a-pull-request/). Write clearly, write correctly. State any assumptions you make. We look forward to chatting over your code! 
+Please [fork](https://guides.github.com/activities/forking/) this repo and create a branch for yourself. Solve one (or more!) of the problems below in the _Choose your own adventure_ section. When you're done, [create a pull request for us](https://help.github.com/articles/creating-a-pull-request/). Write clearly, write correctly. State any assumptions you make. We look forward to chatting over your code! 
 
 If you have any questions along the way, feel free to create an Issue on this repository and tag me and I'll answer it asap.
 
