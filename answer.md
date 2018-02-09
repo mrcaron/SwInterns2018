@@ -30,7 +30,7 @@ This program is a simple implementation of string checking to see if it is a pal
 This program has 2 different functions. 
 1. Checking strings on the command line. Run the program without additional parameters after compilation:
 ```{bash}
-./enhanced-check
+./check
 ```
 An empty prompt comes up, all you have to do is type in your desired string onto the command line and press enter. The answer will pop up in a new line. This can be continued as long as you like, however you can terminate the program by typing exit.
 
