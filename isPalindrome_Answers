@@ -1,0 +1,27 @@
+//I will use java to check if a given string is a palindrome. 
+
+//Zelin Hao
+
+
+public static boolean isPalindrom(String string) {
+    if (string.length() == 0 || string.length() == 1) {
+      return true;
+    } 
+    if (string.charAt(0) == (string.charAt(string.length()-1))) {
+      return isPalindrom(string.substring(1,string.length()-1));
+    }
+    return false;
+}
+
+/*
+For part 2: 
+
+I say "Agile", you think...
+I think about a fast way for developing.
+I say "DevOps", you think...
+I think about developing operation.
+I say "C++", you think...
+I think about it is a higher level language compared to C but it could also be considered as a low level language since it's also abstract.
+I say "Internship", you think...
+I think about I may be a great candidate for this opportunity. 
+*/
