@@ -18,7 +18,10 @@ To run either one of the programs, type:
 ```{bash}
 ./check ./enhanced-check
 ```
-
+To clear the compiled .exe files, type:
+```{bash}
+make clean
+```
 ## Program Functionality
 ### check.cpp
 This program is a simple implementation of string checking to see if it is a palindrome or not, it does not take into account special characters in between.
