@@ -1,0 +1,16 @@
+THIS IS A PALINDROME!
+False
+OH YEAH!
+False
+HANNAH!
+True
+OH WOW!
+False
+THIS IS A PALINDROME!
+False
+OH YEAH!
+False
+HANNAH!
+True
+OH WOW!
+False
