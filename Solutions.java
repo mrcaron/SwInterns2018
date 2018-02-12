@@ -34,6 +34,7 @@ public class Solutions {
 
 		// main program repetition loop
 		while (loop) {
+			loop = false;
 			// determines if the user is accessing via command line or program
 			// arguments
 			if (args.length == 0) {
