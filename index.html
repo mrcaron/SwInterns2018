@@ -1,0 +1,101 @@
+<!--File name: index.html-->
+<!--Author: Zhen Di-->
+<!--Email: di3@wisc.edu-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventure</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+<h1 class="text-center mb-4 mt-4">Adventure App</h1>
+<div class="alert fixed-top hide"></div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="card mb-4 col-sm-12 col-md-8 offset-md-2">
+            <div class="card-body">
+                <h5 class="card-title">String Reverser</h5>
+
+                <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Input string</span>
+                    </div>
+                    <textarea id="input-reverse-string" class="form-control"
+                              onkeyup="stringManipulator.textAreaAdjust(this)"></textarea>
+                </div>
+
+                <a class="btn btn-primary mb-2" onclick="stringManipulator.onReverseStringClicked()">Reverse</a>
+                <div id="output-reverse-string" class="h5">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="card mb-4 col-sm-12 col-md-8 offset-md-2">
+            <div class="card-body ">
+                <h5 class="card-title">Palindrome Checker</h5>
+
+                <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Input string</span>
+                    </div>
+                    <textarea id="input-palindrome-checker" class="form-control"
+                              onkeyup="stringManipulator.textAreaAdjust(this)"></textarea>
+                </div>
+
+                <a class="btn btn-primary mb-2" onclick="stringManipulator.onPalindromeCheckClicked()">Check</a>
+
+                <div id="output-palindrome-checker" class="h5">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="card mb-4 col-sm-12 col-md-8 offset-md-2">
+            <div class="card-body">
+                <h5 class="card-title">JSON Visualizer</h5>
+
+                <div class="input-group mb-2">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">Input string</span>
+                    </div>
+                    <textarea id="input-json-visualizer" class="form-control"
+                              onkeyup="stringManipulator.textAreaAdjust(this)"></textarea>
+                </div>
+
+                <a class="btn btn-primary mb-2" onclick="stringManipulator.onShowJsonClicked()">Show</a>
+            </div>
+
+            <div id="output-json-visualizer">
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+<script type="text/javascript" src="index.js"></script>
+</body>
+</html>

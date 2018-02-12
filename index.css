@@ -1,0 +1,29 @@
+/**
+ *
+ * File name: index.js
+ * Author: Zhen Di
+ * Email: di3@wisc.edu
+ *
+ */
+
+.good-general {
+    color: green;
+}
+
+.bad-general {
+    color: red;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+
+a.btn.btn-primary {
+    cursor: pointer;
+    color: white;
+}
+
+.hide {
+    display: none;
+}
