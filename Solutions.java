@@ -6,7 +6,8 @@
  * SolidWorks Software Engineering Internship coding questions. The program can run using program
  * arguments, or through a command line interface. It has the capability to determine if a string is a
  * palindrome, split a string into parts based off given a character, find the 5th character in a string
- * that is longer than 5 characters, reverse a string, print a JSON object with 2 elements, and crash.
+ * that is longer than 5 characters, reverse a string, print a JSON object with 2 elements, and crash. This
+ program assumes that users know the associated vocabulary with the questions.
  */
 
 import java.util.Scanner;
