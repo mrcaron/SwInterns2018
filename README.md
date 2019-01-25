@@ -1,5 +1,5 @@
 # SOLIDWORKS 2019 Summer Comp-Sci Internships
-So... you've come to our booth at the career fair and scanned the qr code which led you here. This is a code repository hosted by GitHub (if you're new to git or github, read [the getting started guide](https://guides.github.com/activities/hello-world/)) containing an exercise or two for you to complete prior to our first talk. It gives us some material for conversation.
+We're excited that you want to join our team at SOLIDWORKS! This is a code repository hosted by GitHub (if you're new to git or github, read [the getting started guide](https://guides.github.com/activities/hello-world/)) containing an exercise or two for you to complete prior to our first talk. It gives us some material for conversation.
 
 Please [fork](https://guides.github.com/activities/forking/) this repo and create a branch for yourself. Solve one (or more!) of the problems below in the _Choose your own adventure_ section. When you're done, [create a pull request for us](https://help.github.com/articles/creating-a-pull-request/). Write clearly, write correctly. State any assumptions you make. We look forward to chatting over your code! 
 
@@ -20,9 +20,12 @@ The following are fairly simple programming exercises. You can choose whatever y
 
 ## Additional Questions
 
-This section is more fluffy. We're curious about your response to these. Feel free to create a new markdown file and submit it as part of your answer.
+This section is less concrete. We're curious about your response to these. Feel free to create a new markdown file and submit it as part of your answer.
 
 * I say "Agile", you think...
 * I say "DevOps", you think...
 * I say "C++", you think...
 * I say "Internship", you think...
+* What are some programming pet peeves you have?
+* Tell us about the people who've influenced your programming.
+* Tell us why you think you'd make an awesome addition to our team.
